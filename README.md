@@ -25,4 +25,4 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ---
 
-⚡️ Fun fact: I enjoy optimizing server setups and building dynamic, user-friendly applications!
+⚡️ Fun fact: I tried explaining Docker to my cat. Now it just stares at containers.
