@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**star-dot123/star-dot123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🌱 Currently learning: **Next.js**, **Node.js**, and **Tailwind CSS**
+- 🔭 Working on: A rental server service for web and game hosting
+- 📖 Writing: Manuals for game servers and VPS setups
+- 🌐 Managing servers in: **Japan**, **USA**, **UK**, and **Australia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Database**: MariaDB
+- **Other**: Java, Docker, Nginx
+
+## 🌟 Featured Projects
+- [stardot.io](https://stardot.io) - Homepage built with Node.js and Tailwind CSS
+- [Server Management Manual](https://github.com/yourusername/server-manual) - Guides for VPS and game servers
+
+## 📫 How to Reach Me
+- 📧 Email: yourname@example.com
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+
+---
+
+⚡️ Fun fact: I enjoy optimizing server setups and building dynamic, user-friendly applications!
