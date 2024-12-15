@@ -1,28 +1,24 @@
-# 👋 Hello, I'm Stardot!
+# 👋 こんにちは、Stardotです！
 
-Welcome to my GitHub profile! Here's a little bit about me:
+私のGitHubプロフィールへようこそ！少しだけ自己紹介をさせてください。
 
-## 💻 About Me
-- 🌱 Currently learning: **Next.js**, **Node.js**, and **Tailwind CSS**
-- 🔭 Working on: A rental server service for web and game hosting
-- 📖 Writing: Manuals for game servers and VPS setups
-- 🌐 Managing servers in: **Japan**, **USA**, and **UK**
+## 💻 自己紹介
+- 🌱 現在勉強中: **Next.js**、**Node.js**、**Tailwind CSS**
+- 🔭 取り組んでいること: Web系のサービス（現在長期メンテナンス中）
+- 🌐 サーバー管理中の地域: **日本**、**アメリカ**
+- 🌍 今後サーバーを展開したい国: **イギリス**
 
-## 🚀 My Tech Stack
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express, Next.js
-- **Database**: MariaDB
-- **Other**: Java, C#, PHP, Docker, Nginx
+## 🚀 技術スタック
+- **フロントエンド**: React、Tailwind CSS  
+- **バックエンド**: Node.js、Express、Next.js、PHP
+- **データベース**: MariaDB  
+- **その他**: Java、C#、C++、Docker、Nginx、Unreal Engine
 
-## 🌟 Featured Projects
-- [stardot.io](https://stardot.io) - Homepage built with Next.js
+## 🌟 注目のプロジェクト
+- [stardot.io](https://stardot.io) - Next.jsで構築したホームページ（メンテナンス中）
 
-## 📫 How to Reach Me
-- 📧 Email: yourname@example.com
-- 🌐 Website: [stardot.io](https://stardot.io)
-- 📝 Blog: [blog.stardot.io](https://blog.stardot.io)
-- 🐦 Twitter: [@star_dot123](https://x.com/star_dot123)
+## 📫 連絡方法
+- 🌐 ウェブサイト: [stardot.io](https://stardot.io)   
+- 🐦 Twitter: [@star_dot123](https://x.com/star_dot123)  
 
 ---
-
-⚡️ Fun fact: I tried explaining Docker to my cat. Now it just stares at containers.
