@@ -9,10 +9,8 @@
 - 🌍 今後サーバーを展開したい国: **イギリス**
 
 ## 🚀 技術スタック
-- **フロントエンド**: React、Tailwind CSS  
-- **バックエンド**: Node.js、Express、Next.js、PHP
-- **データベース**: MariaDB  
-- **その他**: Java、C#、C++、Docker、Nginx、Unreal Engine
+んあ...いろいろ？？？
+初心者だからわからん
 
 ## 🌟 注目のプロジェクト
 - [stardot.io](https://stardot.io) - Next.jsで構築したホームページ（メンテナンス中）
