@@ -15,7 +15,8 @@
 
 ## 🌐 Connect with Me
 
-- [Twitter](https://twitter.com/star_dot123)
+- [テンさん's Twitter](https://twitter.com/star_dot123): Twitter account
+- [テンさん's YouTube](https://www.youtube.com/@star_dot123): YouTube account
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
