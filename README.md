@@ -21,3 +21,8 @@
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake.svg">
+</picture>
