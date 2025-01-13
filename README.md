@@ -1,7 +1,7 @@
 # Hi there 👋
 **I'm star-dot123! Call me TenSan!**
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,cs,cpp,nodejs,php,react,md,tailwind,bootstrap,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,css,cs,cpp,nodejs,php,react,tailwind,bootstrap,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
 
 ## 🚀 About Me
 
