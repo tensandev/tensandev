@@ -10,8 +10,8 @@
 
 ## 📈 GitHub Stats
 
-![star-dot123's GitHub stats](https://github-readme-stats.vercel.app/api?username=star-dot123&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star-dot123&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+![tensandev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tensandev&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tensandev&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 ## 🌐 Connect with Me
 
@@ -22,7 +22,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and get in 
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/star-dot123/star-dot123/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tensandev/tensandev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tensandev/tensandev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tensandev/tensandev/output/github-contribution-grid-snake.svg">
 </picture>
