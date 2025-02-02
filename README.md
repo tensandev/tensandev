@@ -17,6 +17,8 @@
 
 - [テンさん's Twitter](https://twitter.com/tensandev): Twitter account
 - [テンさん's YouTube](https://www.youtube.com/@tensandev): YouTube account
+- [テンさん's Twitch](https://twitch.tv/tensandev): Twitch account
+- [テンの小遣い屋](https://shop.tensan.dev): グッズショップ
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
