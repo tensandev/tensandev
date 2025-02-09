@@ -1,12 +1,12 @@
 # Hi there 👋
-**I'm tensandev! Call me TenSan!**
+どうも！テンさん（Tensan）です！！！
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,css,cs,cpp,nodejs,php,react,tailwind,bootstrap,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new technologies and improving my skills in web development and data science.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 🌱 毎日ではないですがいろんな言語を学んで試したりしています！
+- 👯 私はオープンソースが大好きです！みんなと開発はもっと楽しそうですね！？もちろん趣味の話ですが！！！
 
 ## 📈 GitHub Stats
 
@@ -15,12 +15,16 @@
 
 ## 🌐 Connect with Me
 
-- [テンさん's Twitter](https://twitter.com/tensandev): Twitter account
-- [テンさん's YouTube](https://www.youtube.com/@tensandev): YouTube account
-- [テンさん's Twitch](https://twitch.tv/tensandev): Twitch account
-- [テンの小遣い屋](https://shop.tensan.dev): グッズショップ
+- [テンさん's Twitter](https://twitter.com/tensandev): 私のTwitterをフォローしましょう！
+- [テンさん's YouTube](https://www.youtube.com/@tensandev): YouTubeのアカウントです！
+- [テンさん's Twitch](https://twitch.tv/tensandev): Twitchでいつも配信しています！
+- [テンの小遣い屋](https://shop.tensan.dev): グッズショップ（現在は準備中です( ･᷅-･᷄ )）
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+私のプロフィールをご覧いただきありがとうございます！
+
+私のリポジトリを自由に探索して、質問やアイデアがある場合はご連絡してください！？
+
+(* 'ᵕ' )ｲｲﾖｯ!(* 'ᵕ' )ｲｲﾖｯ!(* 'ᵕ' )ｲｲﾖｯ!
 
 ---
 <picture>
