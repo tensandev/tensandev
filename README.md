@@ -1,7 +1,7 @@
 # Hi there 👋
 どうも！テンさん（Tensan）です！！！
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,css,cs,cpp,nodejs,php,react,tailwind,bootstrap,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,css,cs,cpp,nodejs,php,react,tailwind,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
 
 ## 🚀 About Me
 
