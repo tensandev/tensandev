@@ -1,7 +1,9 @@
 # Hi there 👋
 どうも！テンさん（Tensan）です！！！
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,css,cs,cpp,nodejs,php,react,tailwind,docker,kubernetes,raspberrypi,redhat,linux,mongodb,figma,unreal,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker,kubernetes,redhat,linux,unreal,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=php,php,php,php,php,php,php)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi)](https://skillicons.dev)<br/>
 
 ## 🚀 About Me
 
@@ -18,7 +20,7 @@
 - [テンさん's Twitter](https://twitter.com/tensandev): 私のTwitterをフォローしましょう！
 - [テンさん's YouTube](https://www.youtube.com/@tensandev): YouTubeのアカウントです！
 - [テンさん's Twitch](https://twitch.tv/tensandev): Twitchでいつも配信しています！
-- [テンの小遣い屋](https://shop.tensan.dev): グッズショップ（現在は準備中です( ･᷅-･᷄ )）
+- [テンの小遣い屋](https://shop.tensandev.app): グッズショップ（現在は準備中です( ･᷅-･᷄ )）
 
 私のプロフィールをご覧いただきありがとうございます！
 
