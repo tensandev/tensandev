@@ -1,9 +1,7 @@
 # Hi there 👋
 どうも！テンさん（Tensan）です！！！
 
-[![SkillIcons](https://skillicons.dev/icons?i=docker,kubernetes,redhat,linux,unreal,vscode)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=php,php,php,php,php,php,php)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi,raspberrypi)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=php,raspberrypi,docker,kubernetes,redhat,linux,unreal,vscode)](https://skillicons.dev)<br/>
 
 ## 🚀 About Me
 
